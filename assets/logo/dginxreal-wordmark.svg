@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
+  <rect width="1000" height="320" fill="#0E1117"/>
+  <rect x="48" y="92" width="6" height="180" fill="#00E5FF"/>
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,Menlo,monospace">
+    <text x="86" y="210" font-size="118" font-weight="800" letter-spacing="-4" fill="#F2F4F8">
+      DGIN<tspan fill="#00E5FF">X</tspan>REAL
+    </text>
+    <text x="90" y="260" font-size="14" font-weight="600" fill="#6B7280" letter-spacing="8">
+      A NOIXDEV DEV  ·  github.com/DGINXREAL
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Square brand avatar — stacked monogram:
+            Noi
+             X       ← oversized cyan, the brand glyph
+            dev
+       Reads as the full NoiXdev wordmark at the org-page size (460px)
+       while the central cyan X carries recognition at favicon sizes. -->
+  <rect width="1024" height="1024" fill="#0E1117"/>
+
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,Menlo,monospace"
+     text-anchor="middle">
+    <text x="512" y="300"
+          font-size="220"
+          font-weight="800"
+          letter-spacing="-10"
+          fill="#F2F4F8">Noi</text>
+
+    <text x="512" y="700"
+          font-size="500"
+          font-weight="800"
+          letter-spacing="-20"
+          fill="#00E5FF">X</text>
+
+    <text x="512" y="940"
+          font-size="220"
+          font-weight="800"
+          letter-spacing="-10"
+          fill="#F2F4F8">dev</text>
+  </g>
+</svg>

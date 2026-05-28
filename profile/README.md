@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="../assets/logo/png/noixdev-wordmark.png" alt="NoiXdev" width="720">
-</p>
+<img src="../assets/logo/png/noixdev-wordmark.png" alt="NoiXdev" width="640">
 
-<p align="center">
-  <em>A small dev label. Two devs. Ship small things.</em>
-</p>
+**A small dev label. Two devs. Ship small things.**
+
+🌐 [**noix.dev**](https://www.noix.dev/) · GitHub: you're here
 
 ---
 
@@ -16,43 +14,50 @@ If something here saves you an hour, that's a win. If something is broken, open 
 
 ## Members
 
-- [`@noidee-dev`](https://github.com/noidee-dev)
-- [`@DGINXREAL`](https://github.com/DGINXREAL)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Brand
+### [`@noidee-dev`](https://github.com/noidee-dev)
 
-Mono, dark, one cyan accent — on the `X` in `NoiXdev` and `DGINXREAL`, on `idee` in `noidee-dev`.
+<a href="https://github.com/noidee-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=noidee-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&icon_color=00E5FF&hide_title=true" alt="noidee-dev stats" />
+</a>
 
-```
-background  #0E1117
-text        #F2F4F8
-accent      #00E5FF
-muted       #6B7280
-font        JetBrains Mono / Fira Code / ui-monospace
-```
+<a href="https://github.com/noidee-dev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noidee-dev&layout=compact&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&card_width=400&langs_count=6" alt="noidee-dev top languages" />
+</a>
 
-Wordmark sources live in [`assets/logo/`](../assets/logo) (SVG + PNG). Please don't reuse the marks for your own project.
+<a href="https://github-readme-streak-stats.herokuapp.com?user=noidee-dev">
+  <img src="https://streak-stats.demolab.com?user=noidee-dev&hide_border=true&background=0E1117&stroke=0E1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&dates=6B7280" alt="noidee-dev streak" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### [`@DGINXREAL`](https://github.com/DGINXREAL)
+
+<a href="https://github.com/DGINXREAL">
+  <img src="https://github-readme-stats.vercel.app/api?username=DGINXREAL&show_icons=true&count_private=true&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&icon_color=00E5FF&hide_title=true" alt="DGINXREAL stats" />
+</a>
+
+<a href="https://github.com/DGINXREAL">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGINXREAL&layout=compact&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&card_width=400&langs_count=6" alt="DGINXREAL top languages" />
+</a>
+
+<a href="https://github-readme-streak-stats.herokuapp.com?user=DGINXREAL">
+  <img src="https://streak-stats.demolab.com?user=DGINXREAL&hide_border=true&background=0E1117&stroke=0E1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&dates=6B7280" alt="DGINXREAL streak" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ## License
 
 Code in this org: MIT, unless a repo says otherwise.
 Logos and brand marks: © NoiXdev.
 
----
+<br>
 
-<details>
-<summary><strong>Org settings — paste-ready copy</strong></summary>
-
-For _GitHub → Org → Settings → Profile_.
-
-**Description** (short, ~100 chars, under the org name):
-> A small dev label. Two devs. Ship small things.
-
-**Alternatives:**
-> Two devs, one cyan X. Small tools, shipped when ready.
-
-> Kleines Dev-Label. Zwei Devs. Kleine Sachen, gut gemacht.
-
-**Profile picture:** crop [`assets/logo/png/noixdev-wordmark.png`](../assets/logo/png/noixdev-wordmark.png), or export a square `X` from the SVG source.
-
-</details>
+<sub>noix.dev · <code>noidee-dev</code> & <code>DGINXREAL</code></sub>

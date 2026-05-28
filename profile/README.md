@@ -20,15 +20,13 @@ If something here saves you an hour, that's a win. If something is broken, open 
 
 ### [`@noidee-dev`](https://github.com/noidee-dev)
 
-<a href="https://github.com/noidee-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=noidee-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&icon_color=00E5FF&hide_title=true" alt="noidee-dev stats" />
-</a>
+<p>
+  <a href="https://github.com/noidee-dev?tab=followers"><img src="https://img.shields.io/github/followers/noidee-dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF&labelColor=0E1117" alt="followers" /></a>
+  <a href="https://github.com/noidee-dev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnoidee-dev&color=00E5FF&labelColor=0E1117&logo=github" alt="public repos" /></a>
+  <a href="https://github.com/noidee-dev"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWING&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnoidee-dev&color=00E5FF&labelColor=0E1117&logo=github" alt="following" /></a>
+</p>
 
 <a href="https://github.com/noidee-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noidee-dev&layout=compact&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&card_width=400&langs_count=6" alt="noidee-dev top languages" />
-</a>
-
-<a href="https://github-readme-streak-stats.herokuapp.com?user=noidee-dev">
   <img src="https://streak-stats.demolab.com?user=noidee-dev&hide_border=true&background=0E1117&stroke=0E1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&dates=6B7280" alt="noidee-dev streak" />
 </a>
 
@@ -37,15 +35,13 @@ If something here saves you an hour, that's a win. If something is broken, open 
 
 ### [`@DGINXREAL`](https://github.com/DGINXREAL)
 
-<a href="https://github.com/DGINXREAL">
-  <img src="https://github-readme-stats.vercel.app/api?username=DGINXREAL&show_icons=true&count_private=true&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&icon_color=00E5FF&hide_title=true" alt="DGINXREAL stats" />
-</a>
+<p>
+  <a href="https://github.com/DGINXREAL?tab=followers"><img src="https://img.shields.io/github/followers/DGINXREAL?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF&labelColor=0E1117" alt="followers" /></a>
+  <a href="https://github.com/DGINXREAL?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDGINXREAL&color=00E5FF&labelColor=0E1117&logo=github" alt="public repos" /></a>
+  <a href="https://github.com/DGINXREAL"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWING&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDGINXREAL&color=00E5FF&labelColor=0E1117&logo=github" alt="following" /></a>
+</p>
 
 <a href="https://github.com/DGINXREAL">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGINXREAL&layout=compact&hide_border=true&bg_color=0E1117&title_color=00E5FF&text_color=F2F4F8&card_width=400&langs_count=6" alt="DGINXREAL top languages" />
-</a>
-
-<a href="https://github-readme-streak-stats.herokuapp.com?user=DGINXREAL">
   <img src="https://streak-stats.demolab.com?user=DGINXREAL&hide_border=true&background=0E1117&stroke=0E1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&dates=6B7280" alt="DGINXREAL streak" />
 </a>
 

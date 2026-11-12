@@ -1,59 +1,90 @@
-<img src="../assets/logo/png/noixdev-wordmark.png" alt="NoiXdev" width="640">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/brand/noixdev-wordmark-light-1600.png">
+  <img src="../assets/brand/noixdev-wordmark-dark-1600.png" alt="NoiXdev" width="360">
+</picture>
 
-**A small dev label. Two devs. Ship small things.**
+### Tools we wished we already had.
 
-🌐 [**noix.dev**](https://www.noix.dev/) · 🐳 [**Docker Hub**](https://hub.docker.com/u/noixdev) · GitHub: you're here 
+We are two people building open-source software that runs on your computer or your own server. No account, no tracking, no subscription. If one of them saves you an hour, it was worth it.
+
+[**Website**](https://www.noix.dev/en/) · [**Docs**](https://docs.noix.dev) · [**Logbook**](https://www.noix.dev/en/logbook) · [**Discord**](https://discord.gg/Wcx8qJ9bXW) · [Docker Hub](https://hub.docker.com/u/noixdev) · [SourceForge](https://sourceforge.net/u/noixdev)
 
 ---
 
-## About
+## What we've built
 
-**NoiXdev** is a small dev label run by two people. No roadmap, no meetings, no growth-hacking — just tooling, prototypes and weekend hacks that we wanted to exist. Repos here are shipped when they're ready, not when a sprint says so.
+Every project started with a problem that annoyed us first.
 
-If something here saves you an hour, that's a win. If something is broken, open an issue.
+#### For the Mac
 
-## Members
+| | |
+|---|---|
+| [**macSCP**](https://github.com/NoiXdev/macSCP) | Move files to your server the way a Mac app should. · [docs](https://docs.noix.dev/macscp/) |
+| [**dotfix**](https://github.com/NoiXdev/dotfix) | Several Macs, one setup. And nothing changes without your okay. · [docs](https://docs.noix.dev/dotfix/) |
+| [**DiscScanner**](https://github.com/NoiXdev/DiscScanner) | See what is filling your disk. Then clean it up right there. |
+
+#### For any desktop
+
+| | |
+|---|---|
+| [**s3Manager**](https://github.com/NoiXdev/s3Manager) | Manage your buckets, whichever S3 provider they live with. · [docs](https://docs.noix.dev/s3manager/) |
+| [**Notefix**](https://github.com/NoiXdev/notefix) | Notes that stay on your computer. No account, no cloud. |
+| [**Printy**](https://github.com/NoiXdev/printy) | Whatever lands in the folder comes out of the printer. · [docs](https://docs.noix.dev/printy/) |
+| [**NFC Keyboard Emulator**](https://github.com/NoiXdev/nfc-keyboard-emulator) | Tap a card, and its number appears in the field. · [docs](https://docs.noix.dev/nfc-keyboard-emulator/) |
+
+#### For teams, on your own server
+
+| | |
+|---|---|
+| [**Inventorix**](https://github.com/NoiXdev/inventorix) | Where is that laptop, and who has it right now? · [docs](https://docs.noix.dev/inventorix/) |
+| [**Marketix**](https://github.com/NoiXdev/marketix) | Short links, QR codes and analytics. On your own server. · [docs](https://docs.noix.dev/marketix/) |
+| [**Pulsix**](https://github.com/NoiXdev/pulsix) | Configure, monitor and alert on your servers. In one tool. · [docs](https://docs.noix.dev/pulsix/) · *in progress* |
+| [**Fleetorio**](https://github.com/NoiXdev/fleetorio) | Do you know when your next vehicle inspection is due? |
+| [**Kontorfix**](https://github.com/NoiXdev/kontorfix) | Your private packages, your customers, one place. On your server. |
+
+#### For developers
+
+| | |
+|---|---|
+| [**ddev-sync**](https://github.com/NoiXdev/ddev-sync) | Bring production home, without the real customer data. · [docs](https://docs.noix.dev/ddev-sync/) · *in progress* |
+| [**Error Pages**](https://github.com/NoiXdev/error-pages) | Friendly error pages instead of a bare 502. · [docs](https://docs.noix.dev/error-pages/) |
+| [**Portainer GitHub Runner**](https://github.com/NoiXdev/portainer-github-runner) | Move that one long CI job onto your own machine. · [docs](https://docs.noix.dev/portainer-github-runner/) · *in progress* |
+| [**Infra Collection**](https://github.com/NoiXdev/ansible-collection-infra) | Tested Ansible roles for Linux servers that run Docker. · [docs](https://docs.noix.dev/infra-collection/) |
+
+More about each tool, how it compares to the alternatives and where to download it: [noix.dev/en/projects](https://www.noix.dev/en/projects).
+
+## What all of them have in common
+
+- **Runs on your side.** On your Mac, your PC or your server. Your data only leaves the building if you want it to.
+- **No account, no tracking.** Our tools don't need an account with us and don't send us any data.
+- **Open and free.** Almost everything is under the MIT license. Have a look, help out or take it apart.
+- **Done when it's done.** We release things once they work in real life. Not before.
+
+## Who's behind it
+
+Two people, two lines, one X. Each line in the logo stands for one of us.
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://github.com/noidee-dev.png?size=96" width="48" height="48" alt="" align="left">
 
-### [`@noidee-dev`](https://github.com/noidee-dev)
-
-<p>
-  <a href="https://github.com/noidee-dev?tab=followers"><img src="https://img.shields.io/github/followers/noidee-dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF&labelColor=0E1117" alt="followers" /></a>
-  <a href="https://github.com/noidee-dev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnoidee-dev&color=00E5FF&labelColor=0E1117&logo=github" alt="public repos" /></a>
-  <a href="https://github.com/noidee-dev"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWING&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnoidee-dev&color=00E5FF&labelColor=0E1117&logo=github" alt="following" /></a>
-</p>
-
-<a href="https://github.com/noidee-dev">
-  <img src="https://streak-stats.demolab.com?user=noidee-dev&hide_border=true&background=0E1117&stroke=0E1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&dates=6B7280" alt="noidee-dev streak" />
-</a>
-
+**[noidee](https://github.com/noidee-dev)**<br>
+The orange line in the X.<br>
+<sub>[noidee.dev](https://www.noidee.dev) · [facts](https://www.noix.dev/en/team/noidee)</sub>
 </td>
 <td width="50%" valign="top">
+<img src="https://github.com/DGINXREAL.png?size=96" width="48" height="48" alt="" align="left">
 
-### [`@DGINXREAL`](https://github.com/DGINXREAL)
-
-<p>
-  <a href="https://github.com/DGINXREAL?tab=followers"><img src="https://img.shields.io/github/followers/DGINXREAL?style=for-the-badge&logo=github&label=FOLLOWERS&color=00E5FF&labelColor=0E1117" alt="followers" /></a>
-  <a href="https://github.com/DGINXREAL?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDGINXREAL&color=00E5FF&labelColor=0E1117&logo=github" alt="public repos" /></a>
-  <a href="https://github.com/DGINXREAL"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWING&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDGINXREAL&color=00E5FF&labelColor=0E1117&logo=github" alt="following" /></a>
-</p>
-
-<a href="https://github.com/DGINXREAL">
-  <img src="https://streak-stats.demolab.com?user=DGINXREAL&hide_border=true&background=0E1117&stroke=0E1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&dates=6B7280" alt="DGINXREAL streak" />
-</a>
-
+**[DGINXREAL](https://github.com/DGINXREAL)**<br>
+The cyan line in the X.<br>
+<sub>[dginx.de](https://dginx.de) · [facts](https://www.noix.dev/en/team/dginxreal)</sub>
 </td>
 </tr>
 </table>
 
-## License
+## Questions, ideas, bugs?
 
-Code in this org: MIT, unless a repo says otherwise.
-Logos and brand marks: © NoiXdev.
+[Discord](https://discord.gg/Wcx8qJ9bXW) is the quickest way to reach us. Bugs and wishes are welcome as an issue in the project's repository, and the guides for every tool live in the [docs](https://docs.noix.dev). For anything else: [hello@noix.dev](mailto:hello@noix.dev).
 
-<br>
-
-<sub>noix.dev · <code>noidee-dev</code> & <code>DGINXREAL</code></sub>
+<sub>Code: MIT unless a repository says otherwise. Logo and brand: © NoiXdev, downloads at [noix.dev/en/brand](https://www.noix.dev/en/brand).</sub>

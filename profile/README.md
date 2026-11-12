@@ -17,39 +17,31 @@ Every project started with a problem that annoyed us first.
 
 #### For the Mac
 
-| | |
-|---|---|
-| [**macSCP**](https://github.com/NoiXdev/macSCP) | Move files to your server the way a Mac app should. · [docs](https://docs.noix.dev/macscp/) |
-| [**dotfix**](https://github.com/NoiXdev/dotfix) | Several Macs, one setup. And nothing changes without your okay. · [docs](https://docs.noix.dev/dotfix/) |
-| [**DiscScanner**](https://github.com/NoiXdev/DiscScanner) | See what is filling your disk. Then clean it up right there. |
+- [**macSCP**](https://github.com/NoiXdev/macSCP): Move files to your server the way a Mac app should. · [docs](https://docs.noix.dev/macscp/)
+- [**dotfix**](https://github.com/NoiXdev/dotfix): Several Macs, one setup. And nothing changes without your okay. · [docs](https://docs.noix.dev/dotfix/)
+- [**DiscScanner**](https://github.com/NoiXdev/DiscScanner): See what is filling your disk. Then clean it up right there.
 
 #### For any desktop
 
-| | |
-|---|---|
-| [**s3Manager**](https://github.com/NoiXdev/s3Manager) | Manage your buckets, whichever S3 provider they live with. · [docs](https://docs.noix.dev/s3manager/) |
-| [**Notefix**](https://github.com/NoiXdev/notefix) | Notes that stay on your computer. No account, no cloud. |
-| [**Printy**](https://github.com/NoiXdev/printy) | Whatever lands in the folder comes out of the printer. · [docs](https://docs.noix.dev/printy/) |
-| [**NFC Keyboard Emulator**](https://github.com/NoiXdev/nfc-keyboard-emulator) | Tap a card, and its number appears in the field. · [docs](https://docs.noix.dev/nfc-keyboard-emulator/) |
+- [**s3Manager**](https://github.com/NoiXdev/s3Manager): Manage your buckets, whichever S3 provider they live with. · [docs](https://docs.noix.dev/s3manager/)
+- [**Notefix**](https://github.com/NoiXdev/notefix): Notes that stay on your computer. No account, no cloud.
+- [**Printy**](https://github.com/NoiXdev/printy): Whatever lands in the folder comes out of the printer. · [docs](https://docs.noix.dev/printy/)
+- [**NFC Keyboard Emulator**](https://github.com/NoiXdev/nfc-keyboard-emulator): Tap a card, and its number appears in the field. · [docs](https://docs.noix.dev/nfc-keyboard-emulator/)
 
 #### For teams, on your own server
 
-| | |
-|---|---|
-| [**Inventorix**](https://github.com/NoiXdev/inventorix) | Where is that laptop, and who has it right now? · [docs](https://docs.noix.dev/inventorix/) |
-| [**Marketix**](https://github.com/NoiXdev/marketix) | Short links, QR codes and analytics. On your own server. · [docs](https://docs.noix.dev/marketix/) |
-| [**Pulsix**](https://github.com/NoiXdev/pulsix) | Configure, monitor and alert on your servers. In one tool. · [docs](https://docs.noix.dev/pulsix/) · *in progress* |
-| [**Fleetorio**](https://github.com/NoiXdev/fleetorio) | Do you know when your next vehicle inspection is due? |
-| [**Kontorfix**](https://github.com/NoiXdev/kontorfix) | Your private packages, your customers, one place. On your server. |
+- [**Inventorix**](https://github.com/NoiXdev/inventorix): Where is that laptop, and who has it right now? · [docs](https://docs.noix.dev/inventorix/)
+- [**Marketix**](https://github.com/NoiXdev/marketix): Short links, QR codes and analytics. On your own server. · [docs](https://docs.noix.dev/marketix/)
+- [**Pulsix**](https://github.com/NoiXdev/pulsix): Configure, monitor and alert on your servers. In one tool. · [docs](https://docs.noix.dev/pulsix/) · *in progress*
+- [**Fleetorio**](https://github.com/NoiXdev/fleetorio): Do you know when your next vehicle inspection is due?
+- [**Kontorfix**](https://github.com/NoiXdev/kontorfix): Your private packages, your customers, one place. On your server.
 
 #### For developers
 
-| | |
-|---|---|
-| [**ddev-sync**](https://github.com/NoiXdev/ddev-sync) | Bring production home, without the real customer data. · [docs](https://docs.noix.dev/ddev-sync/) · *in progress* |
-| [**Error Pages**](https://github.com/NoiXdev/error-pages) | Friendly error pages instead of a bare 502. · [docs](https://docs.noix.dev/error-pages/) |
-| [**Portainer GitHub Runner**](https://github.com/NoiXdev/portainer-github-runner) | Move that one long CI job onto your own machine. · [docs](https://docs.noix.dev/portainer-github-runner/) · *in progress* |
-| [**Infra Collection**](https://github.com/NoiXdev/ansible-collection-infra) | Tested Ansible roles for Linux servers that run Docker. · [docs](https://docs.noix.dev/infra-collection/) |
+- [**ddev-sync**](https://github.com/NoiXdev/ddev-sync): Bring production home, without the real customer data. · [docs](https://docs.noix.dev/ddev-sync/) · *in progress*
+- [**Error Pages**](https://github.com/NoiXdev/error-pages): Friendly error pages instead of a bare 502. · [docs](https://docs.noix.dev/error-pages/)
+- [**Portainer GitHub Runner**](https://github.com/NoiXdev/portainer-github-runner): Move that one long CI job onto your own machine. · [docs](https://docs.noix.dev/portainer-github-runner/) · *in progress*
+- [**Infra Collection**](https://github.com/NoiXdev/ansible-collection-infra): Tested Ansible roles for Linux servers that run Docker. · [docs](https://docs.noix.dev/infra-collection/)
 
 More about each tool, how it compares to the alternatives and where to download it: [noix.dev/en/projects](https://www.noix.dev/en/projects).
 
